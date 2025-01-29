@@ -19,8 +19,8 @@ Este é um chatbot desenvolvido com `whatsapp-web.js` para atender clientes da C
 ## 📦 Instalação
 ### 1️⃣ Clone o repositório:
 ```sh
-git clone https://github.com/MariaDeyane/chatbotmaisbela.git
-cd whatsapp-chatbot-clinica
+git clone https://github.com/Seu-Usuario/chatbotmaisbela.git
+cd chatbotmaisbela
 ```
 
 ### 2️⃣ Instale as dependências:
